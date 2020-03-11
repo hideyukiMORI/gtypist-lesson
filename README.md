@@ -3,7 +3,7 @@ Touch type practice script
 
 ## Desctiption
 "Gtypist" is typing practice software that runs on the terminal.
-Official site : https://www.gnu.org/software/gtypist/
+(Official site : https://www.gnu.org/software/gtypist/)
 This script file is a practice script for "gtypist".
 
 ## Usage
