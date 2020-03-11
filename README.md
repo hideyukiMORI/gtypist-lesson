@@ -20,6 +20,17 @@ export GTYPIST_PATH=/Path/to/script/file
 ```
 
 ## Requirement
+This script requires "GNU Typist".
+Please install with package etc.
+
+**Debian/Ubuntu**
+```
+$ sudo apt install gtypist
+```
+**OSX**
+```
+$ brew install gtypist
+```
 
 ## Licence
 
