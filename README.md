@@ -15,7 +15,7 @@ gtypist xion.typ
 Register the path where this script file is installed in the environment variable "$ GTYPIST_PATH".
 I think it is good to write the following in ".bash_profile", ".bashrc", ".zshrc" etc.
 ```
-export GTYPIST_PATH=/
+export GTYPIST_PATH=/Path/to/script/file
 ```
 
 ## Requirement
