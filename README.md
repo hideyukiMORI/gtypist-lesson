@@ -32,6 +32,5 @@ $ sudo apt install gtypist
 $ brew install gtypist
 ```
 
-## Licence
-
 ## Author
+This script was written by Hideyuki Mori of Ayane International Inc.
