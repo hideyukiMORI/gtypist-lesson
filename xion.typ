@@ -1,6 +1,7 @@
 *:MENU
 M: "Etudes for weak fingers"
- :__LESSON_1  "Lesson 01"
+ :__LESSON_1  "Lesson 01 : Horizontal movement"
+ :__LESSON_2  "Lesson 02 : Vertical movement"
  :Exit "Exit"
 
 
@@ -8,6 +9,7 @@ M: "Etudes for weak fingers"
 *:__LESSON_1
 B:Etudes for weak fingers : LESSON 01
 T:Little finger, ring finger and middle finger of left hand.
+ :Practice moving a weak finger horizontally.
 I:(1)a&s&d
 D:asd asd asd asd asd asd asd asd asd asd asd asd asd asd
  :ads ads ads ads ads ads ads ads ads ads ads ads ads ads
@@ -41,18 +43,22 @@ D:asd qwe zxc 123 asd qwe zxc 123 asd qwe zxc 123
 
 G:MENU
 
+*:__LESSON_2
+B:Etudes for weak fingers : LESSON 02
+T:Little finger, ring finger and middle finger of left hand.
+ :Practice moving a weak finger vertically.
+I:(1)a&q&z&1
+D:aqz1 aqz1 aqz1 aqz1 aqz1 aqz1 aqz1 aqz1 aqz1 aqz1
+ :aq1z aq1z aq1z aq1z aq1z aq1z aq1z aq1z aq1z aq1z
+ :az1q az1q az1q az1q az1q az1q az1q az1q az1q az1q
+ :a1zq a1zq a1zq a1zq a1zq a1zq a1zq a1zq a1zq a1zq
+ :azq1 azq1 azq1 azq1 azq1 azq1 azq1 azq1 azq1 azq1
 
+G:MENU
 
 *:Exit
-B:Demonstration of commands and features - X
-T:The last command to show is the X command.  This causes the program to
- :exit.  The program also exits if the end of the file is found
- :(so you could place a label there and just G to it).
- :
- :Here's a demonstration of the X command.  Since this is the end of
- :the demonstration, here is a good place to use it; the demonstration
- :will halt here.
- :
- :  X:
+B:Thank you for your hard work.
+T:Practice little by little every day.
+ :Continuation is power.
 X:
 
