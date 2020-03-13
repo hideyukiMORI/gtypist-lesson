@@ -53,6 +53,12 @@ D:aqz1 aqz1 aqz1 aqz1 aqz1 aqz1 aqz1 aqz1 aqz1 aqz1
  :az1q az1q az1q az1q az1q az1q az1q az1q az1q az1q
  :a1zq a1zq a1zq a1zq a1zq a1zq a1zq a1zq a1zq a1zq
  :azq1 azq1 azq1 azq1 azq1 azq1 azq1 azq1 azq1 azq1
+I:(2)s&w&x&2
+D:swx2 swx2 swx2 swx2 swx2 swx2 swx2 swx2 swx2 swx2
+ :sw2x sw2x sw2x sw2x sw2x sw2x sw2x sw2x sw2x sw2x
+ :sx2w sx2w sx2w sx2w sx2w sx2w sx2w sx2w sx2w sx2w
+ :s2xw s2xw s2xw s2xw s2xw s2xw s2xw s2xw s2xw s2xw
+ :sxw2 sxw2 sxw2 sxw2 sxw2 sxw2 sxw2 sxw2 sxw2 sxw2
 
 G:MENU
 
