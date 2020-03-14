@@ -59,6 +59,12 @@ D:swx2 swx2 swx2 swx2 swx2 swx2 swx2 swx2 swx2 swx2
  :sx2w sx2w sx2w sx2w sx2w sx2w sx2w sx2w sx2w sx2w
  :s2xw s2xw s2xw s2xw s2xw s2xw s2xw s2xw s2xw s2xw
  :sxw2 sxw2 sxw2 sxw2 sxw2 sxw2 sxw2 sxw2 sxw2 sxw2
+I:(3)d&e&c&3
+D:dec3 dec3 dec3 dec3 dec3 dec3 dec3 dec3 dec3 dec3
+ :de3c de3c de3c de3c de3c de3c de3c de3c de3c de3c
+ :dc3e dc3e dc3e dc3e dc3e dc3e dc3e dc3e dc3e dc3e
+ :d3ce d3ce d3ce d3ce d3ce d3ce d3ce d3ce d3ce d3ce
+ :dce3 dce3 dce3 dce3 dce3 dce3 dce3 dce3 dce3 dce3
 
 G:MENU
 
