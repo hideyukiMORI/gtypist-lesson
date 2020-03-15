@@ -65,6 +65,12 @@ D:dec3 dec3 dec3 dec3 dec3 dec3 dec3 dec3 dec3 dec3
  :dc3e dc3e dc3e dc3e dc3e dc3e dc3e dc3e dc3e dc3e
  :d3ce d3ce d3ce d3ce d3ce d3ce d3ce d3ce d3ce d3ce
  :dce3 dce3 dce3 dce3 dce3 dce3 dce3 dce3 dce3 dce3
+I:(4)mix
+D:aqz1 swx2 dec3 aqz1 swx2 dec3 aqz1 swx2 dec3
+ :aq1z sw2x de3c aq1z sw2x de3c aq1z sw2x de3c
+ :az1q sx2w dc3e az1q sx2w dc3e az1q sx2w dc3e
+ :a1zq s2xw d3ce a1zq s2xw d3ce a1zq s2xw d3ce
+ :azq1 sxw2 dce3 azq1 sxw2 dce3 azq1 sxw2 dce3
 
 G:MENU
 
