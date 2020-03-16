@@ -2,6 +2,7 @@
 M: "Etudes for weak fingers"
  :__LESSON_1  "Lesson 01 : Horizontal movement"
  :__LESSON_2  "Lesson 02 : Vertical movement"
+ :__LESSON_3  "Lesson 03 : Diagonal movement"
  :Exit "Exit"
 
 
@@ -73,6 +74,20 @@ D:aqz1 swx2 dec3 aqz1 swx2 dec3 aqz1 swx2 dec3
  :azq1 sxw2 dce3 azq1 sxw2 dce3 azq1 sxw2 dce3
 
 G:MENU
+
+*:__LESSON_3
+B:Etudes for weak fingers : LESSON 03
+T:Little finger, ring finger and middle finger of left hand.
+ :Practice moving a weak finger diagonal.
+I:(1)Order of the little finger ring finger middle finger.
+D:aw3 q2c 1xd zse aw3 q2c 1xd zse aw3 q2c 1xd zse
+ :ax3 z2e 1wd qsc ax3 z2e 1wd qsc ax3 z2e 1wd qsc
+ :awd q2e 1x3 zsc awd q2e 1x3 zsc awd q2e 1x3 zsc
+ :axd z2c 1w3 qse axd z2c 1w3 qse axd z2c 1w3 qse
+ :a2e qx3 1sc zwd a2e qx3 1sc zwd a2e qx3 1sc zwd
+
+G:MENU
+
 
 *:Exit
 B:Thank you for your hard work.
