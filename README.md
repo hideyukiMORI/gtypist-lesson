@@ -6,6 +6,7 @@ This repository contains two terminal lesson scripts:
 
 - `xion.typ`: the original weak-finger etude collection.
 - `keyquest.typ`: a 90-day GNU Typist typing journey adapted from KeyQuest.
+- `keyquest.ja.typ`, `keyquest.es.typ`, `keyquest.fr.typ`, `keyquest.de.typ`: localized KeyQuest narration with the same typing drills.
 
 ## Requirements
 
@@ -29,6 +30,15 @@ Run the KeyQuest journey directly from this repository:
 
 ```sh
 gtypist keyquest.typ
+```
+
+Run a localized KeyQuest narration file:
+
+```sh
+gtypist keyquest.ja.typ
+gtypist keyquest.es.typ
+gtypist keyquest.fr.typ
+gtypist keyquest.de.typ
 ```
 
 Run the original weak-finger etudes:
@@ -58,6 +68,7 @@ gtypist keyquest.typ
 - Days 1-28 preserve the implemented KeyQuest lesson prompts and reshape them for gtypist drills.
 - Days 29-90 are gtypist-native extensions based on KeyQuest's official quest map themes.
 - The journey covers 12 weekly arcs plus a 6-day finale, from home position through full-keyboard mastery.
+- Localized files translate menus, banners, and guidance only; every `D:` typing line stays identical across languages.
 
 The original KeyQuest game presents lessons through RPG progression, story scenes, scoring, and rewards. GNU Typist is a simpler terminal trainer, so this port keeps the typing substance and reshapes the experience into menus, concise training notes, and drill lines.
 
