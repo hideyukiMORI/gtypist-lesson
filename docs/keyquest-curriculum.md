@@ -12,12 +12,23 @@ gtypist keyquest.typ
 
 Choose an arc from the main menu, then choose a day. The lesson returns to its arc menu when complete.
 
+Localized narration files are also available:
+
+```sh
+gtypist keyquest.ja.typ
+gtypist keyquest.es.typ
+gtypist keyquest.fr.typ
+gtypist keyquest.de.typ
+```
+
 ## Adaptation Rules
 
 - Each day becomes one GNU Typist lesson block.
 - Typing prompts remain English.
 - Very short prompts are repeated on a drill line so gtypist practice is not too brief.
 - Day 29-90 key groups are derived from their gtypist drill text.
+- Localized `.typ` files translate menus, banners, guidance, and drill labels only.
+- Every localized file keeps the same `D:` typing lines as `keyquest.typ`.
 - RPG systems such as XP, HP, MP, inventory, story gates, and achievements are not simulated in gtypist.
 - Story flavor is kept as concise training framing so the screen stays calm while typing.
 
@@ -191,6 +202,10 @@ A 6-day final integrated quest ending with the Last Spell Trial.
 ## File Map
 
 - `keyquest.typ`: GNU Typist script for the full 90-day KeyQuest journey.
+- `keyquest.ja.typ`: Japanese narration with shared English typing drills.
+- `keyquest.es.typ`: Spanish narration with shared English typing drills.
+- `keyquest.fr.typ`: French narration with shared English typing drills.
+- `keyquest.de.typ`: German narration with shared English typing drills.
 - `xion.typ`: original weak-finger etude script, kept unchanged.
 - `README.md`: installation and quick usage guide.
 - `docs/keyquest-curriculum.md`: this curriculum manual.
