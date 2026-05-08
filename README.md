@@ -10,7 +10,12 @@ This repository contains two terminal lesson scripts:
 
 ## Requirements
 
-Install GNU Typist before running these scripts.
+Install [GNU Typist](https://www.gnu.org/software/gtypist/) before running these scripts. If the web page is unavailable from your network, the same tool documentation is usually available locally after installation:
+
+```sh
+info gtypist
+man gtypist
+```
 
 ### Debian / Ubuntu
 
@@ -71,6 +76,12 @@ gtypist keyquest.typ
 - Localized files translate menus, banners, and guidance only; every `D:` typing line stays identical across languages.
 
 The original KeyQuest game presents lessons through RPG progression, story scenes, scoring, and rewards. GNU Typist is a simpler terminal trainer, so this port keeps the typing substance and reshapes the experience into menus, concise training notes, and drill lines.
+
+## About KeyQuest
+
+[KeyQuest](https://github.com/hideyukiMORI/keyquest) is a terminal typing adventure game for fun and effective practice. The full game adds RPG-style journey progress, saved practice history, weak-key review, rewards, achievements, titles, resources, and language options around the same accuracy-first training philosophy.
+
+This repository is the lightweight GNU Typist companion: it keeps the KeyQuest curriculum, arc structure, and English typing prompts, then packages them as plain `.typ` scripts that can be run directly with gtypist.
 
 ## Recommended Practice
 

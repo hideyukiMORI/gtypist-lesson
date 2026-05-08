@@ -6,6 +6,13 @@ Days 1-28 preserve implemented KeyQuest lesson prompts where they fit GNU Typist
 
 ## How to Run
 
+Install [GNU Typist](https://www.gnu.org/software/gtypist/) first. If that page is unreachable, check the local manual after installing gtypist:
+
+```sh
+info gtypist
+man gtypist
+```
+
 ```sh
 gtypist keyquest.typ
 ```
@@ -198,6 +205,12 @@ A 6-day final integrated quest ending with the Last Spell Trial.
 - Days 1-28 preserve the implemented KeyQuest lesson prompts where they fit GNU Typist.
 - Days 29-90 follow the quest map arc themes from KeyQuest and are authored directly for gtypist.
 - The naming follows the implemented KeyQuest quest map when it differs from older planning documents.
+
+## Relationship To KeyQuest
+
+[KeyQuest](https://github.com/hideyukiMORI/keyquest) is the full terminal typing adventure. It combines daily English typing practice with RPG-style progression, saved results, weak-key review, rewards, achievements, titles, resources, and localized UI/story messages.
+
+This GNU Typist lesson pack is a portable companion to that project. It does not include KeyQuest save data, scoring, story scenes, or reward systems. Instead, it preserves the curriculum shape and typing prompts in `.typ` files so the same practice path can be used inside gtypist.
 
 ## File Map
 
